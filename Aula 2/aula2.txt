@@ -1,0 +1,16 @@
+Kaggle: base de dados gratuitos de empresas
+Pandas para trabalhar com volume de dados
+Churn é uma métrica que indica o quanto sua empresa perdeu de receita ou clientes.
+Informação inútil atrapalha
+
+tabela = tabela.drop('Unamed 0', axis=1)
+axis=0 ->linha
+axis=1 ->coluna
+
+errors
+
+graficos criados em duas etapas
+criação
+exibição
+
+buscando informações que saltam aos olhos

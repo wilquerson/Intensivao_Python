@@ -1,0 +1,11 @@
+Escrever o passo a passo do quer fazer:
+
+1. entrar no sistema da empresa
+
+pip install pyautogui
+import pyautogui
+pyautogui.click -> clicar
+pyautogui.write -> escrever
+pyautogui.press -> pressionar
+pyautogui.hotkey -> atalho
+
